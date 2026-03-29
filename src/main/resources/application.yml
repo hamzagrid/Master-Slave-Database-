@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    master:
+      url: jdbc:postgresql://localhost:5432/masterdb
+      username: user
+      password: password
+
+    slave:
+      url: jdbc:postgresql://localhost:5433/slavedb
+      username: root
+      password: root
