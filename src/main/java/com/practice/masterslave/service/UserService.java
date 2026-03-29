@@ -8,7 +8,7 @@ import com.practice.masterslave.repository.UserRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-
+// Service layer responsible for handling user operations using master-slave database routing
 @Service
 public class UserService {
 
