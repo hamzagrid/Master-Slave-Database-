@@ -1,0 +1,15 @@
+Project: Master-Slave Database System
+
+User Stories:
+
+1. As a developer, I want to save user data into the master database so that data consistency is maintained.
+
+2. As a system, I want to read user data from the slave database so that read operations are faster.
+
+3. As a developer, I want to route database operations dynamically so that read and write operations are separated.
+
+4. As a user, I want to retrieve all users so that I can view stored data.
+
+5. As a user, I want to delete a user so that unwanted data can be removed.
+
+6. As a system, I want to ensure data validation so that invalid inputs are not stored.
